@@ -6,7 +6,7 @@ I enjoy creating things that are live on the internet, whether that be websites,
 
 Recently, my interest towards blockchain technology has increased a lot. I have been reading many blogs and research done on this technology. 
 
-#Here are some of the technologies that I'm actively working with:
+### Here are some of the technologies that I'm actively working with:
 
 - 🔭 [Kotlin](https://kotlinlang.org/docs/getting-started.html#is-anything-missing) 
 - 🌱 [Jetpack Compose](https://developer.android.com/jetpack/compose)
