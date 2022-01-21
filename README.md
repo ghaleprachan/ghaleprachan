@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**ghaleprachan/ghaleprachan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, Welcome Here 👋
 
 Here are some ideas to get you started:
 
