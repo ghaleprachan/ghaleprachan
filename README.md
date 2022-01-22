@@ -9,7 +9,8 @@ Recently, my interest towards blockchain technology has increased a lot. I have 
 
 ### Here are some of the technologies that I'm actively working with:
 
-- 🔭 [Kotlin](https://kotlinlang.org/docs/getting-started.html#is-anything-missing) 
+- ![image](https://user-images.githubusercontent.com/70263211/150630825-32bf28b7-e907-4c45-8ac5-d5db72ddd10a.png) [Kotlin](https://kotlinlang.org/docs/getting-started.html#is-anything-missing) 
 - 🌱 [Jetpack Compose](https://developer.android.com/jetpack/compose)
 - 👯 [Flutter](https://docs.flutter.dev/)
+- ⌚ [Wear OS](https://developer.android.com/training/wearables)
 - 🤔 [.Net Core](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0)
