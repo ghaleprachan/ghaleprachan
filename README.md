@@ -13,4 +13,4 @@ Recently, my interest towards blockchain technology has increased a lot. I have 
 - 🚀 [Jetpack Compose](https://developer.android.com/jetpack/compose)
 - 👯 [Flutter](https://docs.flutter.dev/)
 - ⌚ [Wear OS](https://developer.android.com/training/wearables)
-- 🔭 [.Net](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0)
+- 🔭 [.Net Core](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0)
