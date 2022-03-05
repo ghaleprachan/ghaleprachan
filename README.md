@@ -11,4 +11,4 @@ I enjoy creating things that are live on the internet, whether that be websites,
 - 🚀  [Jetpack Compose](https://developer.android.com/jetpack/compose)
 - 👯  [Flutter](https://docs.flutter.dev/)
 - ⌚  [Wear OS With Compose](https://developer.android.com/training/wearables)
-- 🔭  [.Net Core](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0)
+- 🔭  [Asp.Net Core](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0)
