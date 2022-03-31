@@ -14,3 +14,10 @@ I enjoy creating things that are live on the internet, whether that be websites,
 - 🔭  [Asp.Net Core](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0)
 
 <img src="https://github-readme-stats.vercel.app/api?username=ghaleprachan&show_icons=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghaleprachan"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ghaleprachan"/>
+
+
+
