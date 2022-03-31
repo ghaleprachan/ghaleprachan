@@ -12,3 +12,5 @@ I enjoy creating things that are live on the internet, whether that be websites,
 - 👯  [Flutter](https://docs.flutter.dev/)
 - ⌚  [Wear OS With Compose](https://developer.android.com/training/wearables)
 - 🔭  [Asp.Net Core](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0)
+
+<img src="https://github-readme-stats.vercel.app/api?username=ghaleprachan&show_icons=true"/>
