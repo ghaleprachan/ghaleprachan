@@ -7,10 +7,11 @@ I enjoy creating things that are live on the internet, whether that be websites,
 
 ### Here are some of the technologies that I'm actively working with:
 
-- 💡  [Kotlin](https://kotlinlang.org/docs/getting-started.html#is-anything-missing) 
-- 👯  [Flutter](https://docs.flutter.dev/)
-- 🚀  [Jetpack Compose](https://developer.android.com/jetpack/compose)
-- ⌚  [Wear OS With Compose](https://developer.android.com/training/wearables)
+- [Kotlin](https://kotlinlang.org/docs/getting-started.html#is-anything-missing) 
+- [JavaScript](https://javascript.info/) and [React Native](https://reactnative.dev/docs/getting-started)
+- [Flutter](https://docs.flutter.dev/)
+- [Jetpack Compose](https://developer.android.com/jetpack/compose)
+- [Wear OS With Compose](https://developer.android.com/training/wearables)
 
 <img src="https://github-readme-stats.vercel.app/api?username=ghaleprachan&show_icons=true"/>
 
