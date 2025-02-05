@@ -13,11 +13,7 @@ I enjoy creating things that are live on the internet, whether that be websites,
 - [Jetpack Compose](https://developer.android.com/jetpack/compose)
 - [Wear OS With Compose](https://developer.android.com/training/wearables)
 
-<img src="https://github-readme-stats.vercel.app/api?username=ghaleprachan&show_icons=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghaleprachan&layout=compact"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ghaleprachan"/>
 
 
 
